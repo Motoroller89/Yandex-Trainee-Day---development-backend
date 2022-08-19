@@ -25,3 +25,8 @@ print(len(vershina))
 print(len(c))
 for p in c:
     print(p[0], p[1], c.get(p))
+    
+
+#День стажера Яндекса - бэкенд разработки
+
+#Задача - А. Граф подстрок
